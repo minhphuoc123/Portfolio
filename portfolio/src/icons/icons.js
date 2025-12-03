@@ -1,0 +1,1 @@
+export { FaLaptop } from "react-icons/fa";

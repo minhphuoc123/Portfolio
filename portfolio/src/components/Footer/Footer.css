@@ -1,0 +1,15 @@
+.footer {
+    padding: 1.5rem 1.25rem 1.8rem;
+    text-align: center;
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    border-top: 1px solid rgba(15, 23, 42, 0.9);
+    background: linear-gradient(to top,
+            rgba(15, 23, 42, 0.95),
+            rgba(15, 23, 42, 0.85),
+            transparent);
+}
+
+.footer__sub {
+    margin-top: 0.25rem;
+}
