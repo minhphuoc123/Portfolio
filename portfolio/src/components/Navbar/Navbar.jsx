@@ -11,7 +11,7 @@ const Navbar = () => {
 
             <nav className="navbar__links">
                 <NavLink
-                    to="/"
+                    to="/Portfolio/"
                     end
                     className={({ isActive }) =>
                         isActive ? "nav-link nav-link--active" : "nav-link"
@@ -20,7 +20,7 @@ const Navbar = () => {
                     Giới thiệu
                 </NavLink>
                 <NavLink
-                    to="/skills"
+                    to="/Portfolio/skills"
                     className={({ isActive }) =>
                         isActive ? "nav-link nav-link--active" : "nav-link"
                     }
@@ -28,7 +28,7 @@ const Navbar = () => {
                     Kỹ năng
                 </NavLink>
                 <NavLink
-                    to="/projects"
+                    to="/Portfolio/projects"
                     className={({ isActive }) =>
                         isActive ? "nav-link nav-link--active" : "nav-link"
                     }

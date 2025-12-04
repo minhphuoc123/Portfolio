@@ -38,7 +38,7 @@ export const profile = {
             gpa: "3.05",
             time: "2022 – 2026",
             description:
-                "Định hướng phát triển Web, sẵn sàng học những ngôn ngữ và kiến thức mới. Cẩn thận, tỉ mỉ, mong muốn được làm việc trong môi trường chuyên nghiệp.",
+                "Định hướng phát triển Web, sẵn sàng học hỏi những ngôn ngữ và kiến thức mới. Cẩn thận, tỉ mỉ, mong muốn được làm việc trong môi trường chuyên nghiệp và phát triển các kỹ năng cần thiết.",
         },
     ],
 
