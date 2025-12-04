@@ -5,7 +5,7 @@ export const projects = [
         description:
             "Website thương mại điện tử bán giày với chức năng giỏ hàng, đăng nhập, voucher, quản trị sản phẩm.",
         tech: ["ReactJS", "ASP.NET Core", "SQL Server"],
-        github: "https://github.com/Quyet1911/WebsiteBanGiay/tree/dev-frontend",
+        github: "https://github.com/minhphuoc123/shoes_ecommerce.git",
         demo: "#",
     },
     {
