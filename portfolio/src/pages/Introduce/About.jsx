@@ -1,5 +1,6 @@
 import "./About.css";
 import { profile } from "../../data/profile";
+import cv from "../../assets/cv.jpg";
 
 const About = () => {
     return (
@@ -28,7 +29,7 @@ const About = () => {
                 {/* Sidebar */}
                 <aside className="cv-sidebar">
                     <div className="cv-avatar">
-                        <span>{profile.initials}</span>
+                        <img src={cv} alt="" />
                     </div>
 
                     <div className="cv-block">
@@ -91,7 +92,7 @@ const About = () => {
 
                     {/* Hoạt động */}
                     <section className="cv-block">
-                        <h2 className="cv-block-title">Hoạt động & Chứng chỉ</h2>
+                        <h2 className="cv-block-title">Hoạt động</h2>
                         <ul className="cv-item-list">
                             {profile.activities.map((act) => (
                                 <li key={act}>{act}</li>

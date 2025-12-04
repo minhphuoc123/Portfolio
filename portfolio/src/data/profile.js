@@ -1,6 +1,6 @@
 export const profile = {
     name: "Bùi Minh Phước",
-    initials: "BP",
+    initials: "../assets/cv.jpg",
     position: "Frontend Developer | HTML, CSS, JS, ReactJS",
 
     contact: {
