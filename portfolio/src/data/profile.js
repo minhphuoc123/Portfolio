@@ -35,7 +35,7 @@ export const profile = {
         {
             degree: "Khoa Công nghệ Thông tin",
             school: "Trường Đại học Sư phạm Hà Nội",
-            gpa: "3.05",
+            gpa: "3.1",
             time: "2022 – 2026",
             description:
                 "Định hướng phát triển Web, sẵn sàng học hỏi những ngôn ngữ và kiến thức mới. Cẩn thận, tỉ mỉ, mong muốn được làm việc trong môi trường chuyên nghiệp và phát triển các kỹ năng cần thiết.",
